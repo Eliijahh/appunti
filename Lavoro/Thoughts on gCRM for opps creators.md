@@ -1,5 +1,5 @@
 # Thoughts on gCRM for opps creator
-***
+
 
 User needs to be able to easily insert their opportunity information (via a code that can easily be split in the different fields, or some other way)
 
